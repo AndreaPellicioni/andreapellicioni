@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingressi_museo_2021>
+<!--Di seguito la classificazione per musei come tema centrale la storia per-->
+	<musei_s category="storia">
+		<museo_egizio>
+			<genere>
+				<uomini>10000
+				</uomini>
+				<donne>15000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>15000
+				</under_35>
+				<over_35>10000
+				</over_35>
+			</fascia_età>
+		</museo_egizio>
+		<museo_archeologico>
+			<genere>
+				<uomini>15000
+				</uomini>
+				<donne>10000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>15000
+				</under_35>
+				<over_35>10000
+				</over_35>
+			</fascia_età>
+		</museo_archeologico>
+		<museo_storia_naturale>
+			<genere>
+				<uomini>32000
+				</uomini>
+				<donne>22000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>21600
+				</under_35>
+				<over_35>32400
+				</over_35>
+			</fascia_età>
+		</museo_storia_naturale>
+		<museo_musica>
+			<genere>
+				<uomini>322000
+				</uomini>
+				<donne>210000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>212800
+				</under_35>
+				<over_35>319000
+				</over_35>
+			</fascia_età>
+		</museo_musica>	
+	</musei_s>
+	<!--Di seguito la classificazione per musei come tema centrale la contemporaneità-->
+	<museic category="contemporanei">
+		<museo_arte>
+			<genere>
+				<uomini>100000
+				</uomini>
+				<donne>150000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>150000
+				</under_35>
+				<over_35>100000>
+				</over_35>
+			</fascia_età>
+		</museo_arte>
+		<museo_aperto>
+			<genere>
+				<uomini>21000
+				</uomini>
+				<donne>11000
+				</donne>
+				</genere>
+			<fascia_età>
+				<under_35>17600
+				</under_35>
+				<over_35>14400
+				</over_35>
+			</fascia_età>
+		</museo_aperto>
+		<museo_marittimo>
+			<genere>
+			<uomini>13000
+			</uomini>
+			<donne>4000
+			</donne>
+		</genere>
+		<fascia_età>
+			<under_35>11900
+			</under_35>
+			<over_35>5100
+			</over_35>
+		</fascia_età>
+		</museo_marittimo>
+		<museo_scientifico>
+			<genere>
+				<uomini>15000
+				</uomini>
+				<donne>11000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>7800
+				</under_35>
+				<over_35>18200
+				</over_35>
+			</fascia_età>
+		</museo_scientifico>
+		<museo_anni_2000>
+			<genere>
+				<uomini>17000
+				</uomini>
+				<donne>14000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>14000
+				</under_35>
+				<over_35>17000
+				</over_35>
+			</fascia_età>
+		</museo_anni_2000>
+		<museo_anni_80>
+			<genere>
+				<uomini>17000
+				</uomini>
+				<donne>19000
+				</donne>
+			</genere>
+			<fascia_età>
+				<under_35>19000
+				</under_35>
+				<over_35>17000
+				</over_35>
+			</fascia_età>
+		</museo_anni_80>
+	</museic>
+</ingressi_museo_2021>
+				
+				
+				
+				
+				
+			
+			
