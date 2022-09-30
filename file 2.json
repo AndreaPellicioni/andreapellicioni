@@ -9,7 +9,7 @@
 										"over35" :30000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "archeologico" [
 									{
@@ -19,7 +19,7 @@
 										"over35" :22000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "storia naturale" [
 									{
@@ -29,7 +29,7 @@
 										"over35" :50000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "musica" [
 									{
@@ -50,7 +50,7 @@
 										"over35" :30000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "aperto" [
 									{
@@ -60,7 +60,7 @@
 										"over35" :300000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "marittimo" [
 									{
@@ -70,7 +70,7 @@
 										"over35" :25000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "scientifico" [
 									{
@@ -80,7 +80,7 @@
 										"over35" :50000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "anni duemila" [
 									{
@@ -90,7 +90,7 @@
 										"over35" :20000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "anni ottanta" [
 									{
@@ -111,7 +111,7 @@
 										"over35" :30000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "archeologico" [
 									{
@@ -121,7 +121,7 @@
 										"over35" :30000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "storia naturale" [
 									{
@@ -131,7 +131,7 @@
 										"over35" :30000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "musica" [
 									{
@@ -152,7 +152,7 @@
 										"over35" :300000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "aperto" [
 									{
@@ -162,7 +162,7 @@
 										"over35" :70000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "marittimo" [
 									{
@@ -172,7 +172,7 @@
 										"over35" :5000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "scientifico" [
 									{
@@ -182,7 +182,7 @@
 										"over35" :15000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "anni duemila" [
 									{
@@ -192,7 +192,7 @@
 										"over35" :40000
 														]
 									}
-								}
+								},
 								{
 									"museo" : "anni ottanta" [
 									{
