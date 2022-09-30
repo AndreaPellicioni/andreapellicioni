@@ -1,75 +1,72 @@
 {
-	"musei_storia_francia_duemilaciannove" : [
+	"musei_storia_francia_duemilaciannove" : 
 								{
-									"museo" : "egizio" [
-									{
+									"museo" : "egizio" ,
+									"ingressi":{
 										"uomini" : 30000 , 
 										"donne" : 15000 ,
 										"under35" : 15000 , 
 										"over35" :30000
-														]
-									}
+														
+                                                                        }
 								},
 								{
-									"museo" : "archeologico" [
-									{
+									"museo" : "archeologico" 
+									"ingressi":{
 										"uomini" : 40000 , 
 										"donne" : 15000 ,
 										"under35" : 33000 , 
 										"over35" :22000
-														]
-									}
+									},
+                                                                       "personale": ["anna","oscar","frank"]
 								},
 								{
-									"museo" : "storia naturale" [
-									{
+									"museo" : "storia naturale" ,
+		                                                         "ingressi":{
 										"uomini" : 50000 , 
 										"donne" : 25000 ,
 										"under35" : 25000 , 
 										"over35" :50000
-														]
-									}
+                                                                        }
 								},
 								{
-									"museo" : "musica" [
-									{
+									"museo" : "musica" ,
+									"ingressi":{
 										"uomini" : 10000 , 
 										"donne" : 10000 ,
 										"under35" : 15000 , 
 										"over35" :5000
-														]
-									}
+                                                                        },
+									"personale": ["chris","marck","peter"]
 								}
-	"musei_contemporanei_francia_duemilaciannove" : [
+	"musei_contemporanei_francia_duemilaciannove" : 
 								{
-									"museo" : "arte" [
-									{
+									"museo" : "arte" ,
+									"ingressi":{
 										"uomini" : 30000 , 
 										"donne" : 15000 ,
 										"under35" : 15000 , 
 										"over35" :30000
-														]
 									}
 								},
 								{
-									"museo" : "aperto" [
-									{
+									"museo" : "aperto" ,
+									"ingressi":{
+									
 										"uomini" : 40000 , 
 										"donne" : 40000 ,
 										"under35" : 50000 , 
 										"over35" :300000
-														]
-									}
+									 
 								},
 								{
-									"museo" : "marittimo" [
-									{
+									"museo" : "marittimo" {
+									[
 										"uomini" : 10000 , 
 										"donne" : 25000 ,
 										"under35" : 10000 , 
 										"over35" :25000
-														]
-									}
+									]
 								},
 								{
 									"museo" : "scientifico" [
@@ -78,8 +75,8 @@
 										"donne" : 30000 ,
 										"under35" : 50000 , 
 										"over35" :50000
-														]
 									}
+									]
 								},
 								{
 									"museo" : "anni duemila" [
@@ -88,119 +85,113 @@
 										"donne" : 30000 ,
 										"under35" : 40000 , 
 										"over35" :20000
-														]
 									}
+									]
 								},
 								{
-									"museo" : "anni ottanta" [
+									"museo" : "anni ottanta" ,
+									
 									{
 										"uomini" : 33000 , 
 										"donne" : 11000 ,
 										"under35" : 13200 , 
 										"over35" :30800
-														]
 									}
+									]
 								}
 	"musei_storia_francia_duemilaventuno" : [
 								{
-									"museo" : "egizio" [
-									{
+									"museo" : "egizio" ,
+									"ingresso":{
 										"uomini" : 30000 , 
 										"donne" : 15000 ,
 										"under35" : 15000 , 
 										"over35" :30000
-														]
 									}
 								},
 								{
-									"museo" : "archeologico" [
-									{
+									"museo" : "archeologico" ,
+									"ingressi":{
 										"uomini" : 40000 , 
 										"donne" : 40000 ,
 										"under35" : 50000 , 
 										"over35" :30000
-														]
 									}
 								},
 								{
-									"museo" : "storia naturale" [
-									{
+									"museo" : "storia naturale" ,
+									"ingressi":{
 										"uomini" : 30000 , 
 										"donne" : 15000 ,
 										"under35" : 15000 , 
 										"over35" :30000
-														]
 									}
 								},
 								{
-									"museo" : "musica" [
-									{
+									"museo" : "musica" ,
+									"ingressi":{
 										"uomini" : 40000 , 
 										"donne" : 55000 ,
 										"under35" : 57000 , 
 										"over35" :38000
-														]
-									}
+									   }
 								}
-	"musei_contemporanei_francia_duemilaventuno" : [
-								{
-									"museo" : "arte" [
+	"musei_contemporanei_francia_duemilaventuno" : 	{
+									"museo" : "arte" ,
+		                                                        "ingressi":{
 									{
 										"uomini" : 300000 , 
 										"donne" : 150000 ,
 										"under35" : 150000 , 
 										"over35" :300000
-														]
-									}
+		                                                         }
+									]
 								},
 								{
-									"museo" : "aperto" [
-									{
+									"museo" : "aperto" ,
+									"ingressi":{
 										"uomini" : 70000 , 
 										"donne" : 20000 ,
 										"under35" : 20000 , 
 										"over35" :70000
-														]
 									}
 								},
 								{
-									"museo" : "marittimo" [
-									{
+									"museo" : "marittimo" ,
+									"ingresso":{
 										"uomini" : 10000 , 
 										"donne" : 10000 ,
 										"under35" : 15000 , 
 										"over35" :5000
-														]
 									}
 								},
 								{
-									"museo" : "scientifico" [
-									{
+									"museo" : "scientifico" ,
+									"ingressi":{
 										"uomini" : 15000 , 
 										"donne" : 30000 ,
 										"under35" : 30000 , 
 										"over35" :15000
-														]
-									}
+									},
+									"personale": ["john","anna","peter"]
+									]
 								},
 								{
-									"museo" : "anni duemila" [
-									{
+									"museo" : "anni duemila" ,
+									"ingressi":{
 										"uomini" : 50000 , 
 										"donne" : 30000 ,
 										"under35" : 40000 , 
 										"over35" :40000
-														]
-									}
+                                                                         }
 								},
 								{
-									"museo" : "anni ottanta" [
-									{
+									"museo" : "anni ottanta" ,
+									"ingressi":{
 										"uomini" : 10000 , 
 										"donne" : 15000 ,
 										"under35" : 10000 , 
 										"over35" :15000
-														]
 									}
 								}
 	
